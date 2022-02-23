@@ -1,0 +1,14 @@
+[
+{"type":"header","version":"5.0.2","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"shoppingdb"},
+{"type":"table","name":"shopping","database":"shoppingdb","data":
+[
+
+]
+}
+,{"type":"table","name":"user","database":"shoppingdb","data":
+[
+
+]
+}
+]
